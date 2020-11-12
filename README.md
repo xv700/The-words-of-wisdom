@@ -1,4 +1,7 @@
-# The-words-of-wisdom
+# 《增广贤文》
+
+>The words of wisdom 
+
 **昔时贤文，诲汝谆谆。**  
 **集韵增广，多见多闻。**  
 **观今宜鉴古，无古不成今。**  
